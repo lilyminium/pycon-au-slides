@@ -6,7 +6,6 @@ channels:
   - defaults
 dependencies:
   - ambermini=16.16.0
-  - appnope=0.1.0
   - attrs=19.1.0
   - autopep8=1.4.4
   - backcall=0.1.0
@@ -61,11 +60,9 @@ dependencies:
   - libcblas=3.8.0
   - libcurl=7.65.3
   - libcxx=8.0.0
-  - libcxxabi=8.0.0
   - libedit=3.1.20170329
   - libffi=3.2.1
   - libgcc=4.8.5
-  - libgfortran=3.0.1
   - libiconv=1.15
   - liblapack=3.8.0
   - libnetcdf=4.6.2
