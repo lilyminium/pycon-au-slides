@@ -157,4 +157,5 @@ dependencies:
   - zeromq=4.3.2=h6de7cb9_2
   - zlib=1.2.11=h01d97ff_1005
   - zstd=1.4.0=ha9f0a20_0
+prefix: /Users/lily/anaconda3/envs/pyconau19
 
