@@ -49,7 +49,7 @@ dependencies:
   - jupyter_client=5.3.1
   - jupyter_console=6.0.0
   - jupyter_contrib_core=0.3.3
-  # - jupyter_contrib_nbextensions=0.5.1
+  - jupyter_contrib_nbextensions=0.5.1
   - jupyter_core=4.4.0
   - jupyter_highlight_selected_word=0.2.0
   - jupyter_latex_envs=1.4.4

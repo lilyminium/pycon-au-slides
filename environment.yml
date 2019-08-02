@@ -6,6 +6,7 @@ channels:
   - defaults
 dependencies:
   - mdanalysis=0.19.2
+  - jupyter_contrib_nbextensions=0.5.1
   - nglview=2.6.1
   - openforcefield=0.4.1
   - pandas=0.25.0
